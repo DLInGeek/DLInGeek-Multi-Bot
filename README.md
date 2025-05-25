@@ -28,7 +28,7 @@ Currently in **beta** — expect ongoing improvements!
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/dlingeek-discord-bot.git
+git clone https://github.com/DLInGeek/DLInGeek-Multi-Bot.git
 cd dlingeek-discord-bot
 # Install dependencies
 npm install
